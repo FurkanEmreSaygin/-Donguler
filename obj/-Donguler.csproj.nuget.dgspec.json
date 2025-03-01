@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furky\\Desktop\\Life\\-Donguler\\-Donguler.csproj": {}
+    "C:\\Users\\furky\\Desktop\\Life\\Donguler\\-Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furky\\Desktop\\Life\\-Donguler\\-Donguler.csproj": {
+    "C:\\Users\\furky\\Desktop\\Life\\Donguler\\-Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furky\\Desktop\\Life\\-Donguler\\-Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\furky\\Desktop\\Life\\Donguler\\-Donguler.csproj",
         "projectName": "-Donguler",
-        "projectPath": "C:\\Users\\furky\\Desktop\\Life\\-Donguler\\-Donguler.csproj",
+        "projectPath": "C:\\Users\\furky\\Desktop\\Life\\Donguler\\-Donguler.csproj",
         "packagesPath": "C:\\Users\\furky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furky\\Desktop\\Life\\-Donguler\\obj\\",
+        "outputPath": "C:\\Users\\furky\\Desktop\\Life\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\furky\\AppData\\Roaming\\NuGet\\NuGet.Config"
